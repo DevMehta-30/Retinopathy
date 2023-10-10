@@ -29,8 +29,9 @@ Vision problems in individuals with diabetes are influenced by a complex interpl
 2. Final Model:
 <br>
 ![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.17.50_aa7cb01d.jpg>)
-
+ 
 ### Conclusion  
+
 We compare and analyse various machine learning models and get the best performance by ensembling Logistic Regression, Voting Classifier and SVM with accuracy of ***92 %.***
 
 ### Authors
