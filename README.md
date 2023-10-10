@@ -23,11 +23,15 @@ Vision problems in individuals with diabetes are influenced by a complex interpl
 ![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.16.53_ebbeff6b.jpg>)
 - ### Ensembling  
 1. Model One:
+<br>  
+
+![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.17.10_d8bbbac0.jpg>)  
+
 <br>
-![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.17.10_d8bbbac0.jpg>)
-<br>
-2. Final Model:
-<br>
+2. Final Model:  
+
+<br>  
+
 ![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.17.50_aa7cb01d.jpg>)
  
 ### Conclusion  
