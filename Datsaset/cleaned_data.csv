@@ -1,0 +1,60 @@
+Age,Type,Sugar_B,Sugar_A,Sugar_H,BP_top,BP_bottom,Irritation,Cholestrol,Intensity,Strain,Headache,Watery,Black_spot,Organs,Spectacles,Vision,Duration
+15-24,Type I,Less than 100,90-140,125,120-139,less than 80,Yes,Yes,yes,yes,Yes,Yes,Yes,NERVES,"Yes Detected, prior to Diabetes",near vision,8
+15-24,Type I,151-200,90-140,142,120-139,less than 80,Yes,Yes,yes,no,No,Yes,No,NERVES,"Yes Detected, prior to Diabetes",distant vision,2
+55 above,Type II,126-150,201-250,400,120-139,less than 80,Yes,No,no,no,No,No,No,NONE,"Yes Detected, after Diabetes",distant vision,25
+15-24,Type I,126-150,141-180,450,120-139,80-89,Yes,No,no,no,No,Yes,No,SKIN,"Yes Detected, prior to Diabetes",distant vision,7 Months
+25-54,Type II,151-200,201-250,280,140+,90+,No,Yes,no,no,Yes,Yes,No,KIDNEY,no,near vision,5
+25-54,Type II,200+,201-250,350,120-139,80-89,Yes,No,yes,yes,Yes,Yes,No,HEART,"Yes Detected, after Diabetes",both,6 years
+15-24,Type I,101-125,90-140,560,120-139,less than 80,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",distant vision,3
+25-54,Type II,151-200,141-180,245,120-139,80-89,No,No,no,no,No,Yes,No,NONE,"Yes Detected, prior to Diabetes",both,12
+25-54,Type II,101-125,90-140,356,120-139,80-89,Yes,No,yes,yes,Yes,No,Yes,NONE,no,None,8 years
+55 above,Type II,126-150,141-180,200,120-139,80-89,Yes,No,yes,yes,No,No,No,NONE,"Yes Detected, prior to Diabetes",near vision,15
+55 above,Type II,Less than 100,90-140,140,120-139,80-89,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,Not at all 
+25-54,Type II,101-125,141-180,200,140+,80-89,Yes,Yes,yes,yes,Yes,Yes,Yes,HEART,"Yes Detected, after Diabetes",both,4
+25-54,Gestational Diabetes ( Detected during Pregnancy),Less than 100,90-140,120,140+,less than 80,Yes,No,yes,yes,Yes,Yes,Yes,NONE,no,None,7months
+15-24,Type II,126-150,141-180,140,120-139,80-89,Yes,No,no,yes,Yes,Yes,No,NONE,"Yes Detected, prior to Diabetes",distant vision,Yes
+25-54,Gestational Diabetes ( Detected during Pregnancy),101-125,90-140,210,120-139,80-89,Yes,No,yes,no,Yes,No,No,NONE,no,None,3
+25-54,Type I,151-200,201-250,250,120-139,80-89,No,Yes,yes,yes,Yes,No,No,NONE,"Yes Detected, prior to Diabetes",both,2020
+15-24,Type I,101-125,Less than 90,125,120-139,80-89,No,No,no,no,No,No,Yes,NONE,no,None,0
+55 above,Type II,151-200,251 above,285,120-139,80-89,No,No,no,no,No,No,No,KIDNEY,"Yes Detected, prior to Diabetes",near vision,15
+55 above,Type II,200+,181-200,311,140+,80-89,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,5
+25-54,Type I,126-150,181-200,200,140+,90+,No,No,no,yes,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,10
+55 above,Type II,101-125,90-140,180,120-139,80-89,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,2 YEARS
+25-54,Gestational Diabetes ( Detected during Pregnancy),126-150,141-180,160,120-139,80-89,No,No,no,no,No,No,No,NONE,no,None,6 months
+55 above,Type II,101-125,141-180,186,140+,90+,No,No,no,yes,Yes,No,Yes,NONE,"Yes Detected, prior to Diabetes",near vision,10
+55 above,Type II,200+,201-250,250,120-139,80-89,No,No,no,no,No,No,No,NERVES,"Yes Detected, prior to Diabetes",near vision,25
+25-54,Type II,101-125,90-140,202,120-139,90+,No,Yes,yes,no,Yes,No,No,NONE,"Yes Detected, prior to Diabetes",both,1.5 years
+25-54,Type I,151-200,181-200,200,120-139,80-89,No,Yes,no,yes,No,No,No,KIDNEY,"Yes Detected, after Diabetes",None,15
+55 above,Type I,126-150,181-200,200,120-139,80-89,No,No,yes,yes,No,Yes,No,NONE,"Yes Detected, prior to Diabetes",near vision,Around 14 years
+55 above,Type I,101-125,90-140,180,140+,90+,No,Yes,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,10 years 
+25-54,Type II,126-150,181-200,250,140+,90+,No,No,no,no,No,No,No,NONE,no,None,1
+55 above,Type I,151-200,201-250,385,140+,90+,No,No,no,no,Yes,Yes,No,NONE,"Yes Detected, prior to Diabetes",both,5
+25-54,Type II,151-200,90-140,550,140+,90+,Yes,Yes,yes,yes,Yes,Yes,Yes,KIDNEY,"Yes Detected, after Diabetes",both,30
+25-54,Type II,126-150,181-200,283,140+,90+,Yes,No,no,no,No,No,No,SKIN,no,None,6
+25-54,Type II,Less than 100,90-140,198,120-139,90+,Yes,Yes,yes,yes,Yes,No,Yes,NONE,"Yes Detected, prior to Diabetes",distant vision,2
+25-54,Type I,101-125,90-140,140,120-139,80-89,No,No,no,no,No,No,No,NONE,no,both,Non
+25-54,Type II,126-150,90-140,141,120-139,80-89,No,No,no,no,Yes,No,No,NONE,"Yes Detected, prior to Diabetes",both,11
+15-24,Type I,101-125,90-140,120,120-139,80-89,Yes,No,yes,yes,Yes,No,No,SKIN,"Yes Detected, prior to Diabetes",distant vision,3
+25-54,Type II,126-150,251 above,330,120-139,80-89,Yes,No,yes,yes,Yes,No,No,NONE,"Yes Detected, after Diabetes",near vision,8
+55 above,Type II,101-125,201-250,278,140+,80-89,No,Yes,yes,yes,Yes,Yes,No,NONE,"Yes Detected, after Diabetes",both,12
+55 above,Type II,Less than 100,141-180,250,120-139,80-89,No,Yes,yes,yes,Yes,No,No,HEART,"Yes Detected, after Diabetes",both,15
+25-54,Type II,101-125,141-180,234,120-139,less than 80,Yes,No,no,yes,Yes,No,Yes,NONE,"Yes Detected, after Diabetes",near vision,4
+55 above,Type II,101-125,201-250,356,120-139,80-89,No,Yes,yes,yes,Yes,Yes,No,KIDNEY,"Yes Detected, after Diabetes",both,15
+25-54,Type II,101-125,90-140,140,120-139,80-89,No,Yes,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,10
+15-24,Type II,101-125,90-140,120,120-139,80-89,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,2
+15-24,Type II,101-125,90-140,140,120-139,80-89,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,2
+15-24,Type II,101-125,90-140,140,120-139,80-89,No,No,no,no,No,No,No,NONE,"Yes Detected, prior to Diabetes",both,2
+55 above,Type I,126-150,141-180,225,120-139,80-89,Yes,Yes,yes,yes,Yes,Yes,No,NERVES,"Yes Detected, after Diabetes",both,3 years
+25-54,Type I,151-200,201-250,220,120-139,90+,Yes,Yes,yes,no,Yes,Yes,No,NERVES,"Yes Detected, after Diabetes",near vision,15 years
+55 above,Type I,126-150,141-180,180,120-139,80-89,Yes,Yes,yes,yes,Yes,Yes,Yes,NERVES,"Yes Detected, after Diabetes",near vision,25 years
+55 above,Type II,126-150,201-250,350,120-139,80-89,No,Yes,yes,yes,Yes,Yes,No,NONE,"Yes Detected, after Diabetes",near vision,13
+25-54,Type II,126-150,251 above,420,120-139,80-89,No,No,yes,yes,Yes,Yes,No,HEART,"Yes Detected, after Diabetes",distant vision,8
+55 above,Type II,126-150,251 above,300,120-139,less than 80,No,No,yes,yes,No,No,No,NONE,"Yes Detected, after Diabetes",both,18
+25-54,Type II,101-125,181-200,235,120-139,80-89,No,No,yes,yes,Yes,No,No,NONE,"Yes Detected, after Diabetes",distant vision,6
+55 above,Type II,126-150,201-250,225,120-139,80-89,No,No,yes,yes,Yes,No,No,NONE,"Yes Detected, after Diabetes",distant vision,8
+25-54,Type II,126-150,201-250,270,120-139,80-89,Yes,No,yes,yes,Yes,Yes,No,NONE,"Yes Detected, after Diabetes",both,7
+55 above,Type II,101-125,181-200,255,120-139,80-89,Yes,Yes,yes,yes,Yes,Yes,No,NONE,"Yes Detected, after Diabetes",near vision,14
+25-54,Type II,101-125,141-180,230,120-139,80-89,No,No,yes,yes,Yes,No,No,NERVES,"Yes Detected, after Diabetes",distant vision,9
+55 above,Type II,101-125,141-180,220,120-139,80-89,No,No,yes,yes,Yes,Yes,Yes,NERVES,"Yes Detected, after Diabetes",near vision,18
+55 above,Type II,101-125,141-180,340,120-139,80-89,Yes,No,yes,yes,Yes,Yes,No,NERVES,"Yes Detected, after Diabetes",near vision,12
+25-54,Type II,101-125,141-180,200,140+,90+,Yes,Yes,yes,yes,Yes,Yes,No,NONE,"Yes Detected, after Diabetes",both,10
