@@ -6,7 +6,9 @@ The research is driven by a set of particular goals, such as a thorough analysis
 \
 Vision problems in individuals with diabetes are influenced by a complex interplay of factors. Elevated blood sugar levels damage eye blood vessels in diabetic retinopathy, worsened by age and diabetes duration. Dry eyes are common and worsened by concurrent health issues like hypertension. Some diabetes medications increase the risk of cataracts and glaucoma. Genetics can predispose certain individuals to eye issues. Lifestyle choices, such as diet and exercise, impact diabetes control and eye.
 \
-![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.09.40_b68f3e23.jpg>)
+![Alt text](</Screenshots/WhatsApp Image 2023-10-10 at 23.09.40_b68f3e23.jpg>)  
+
+You can find the Dataset:- [*Here*](https://github.com/DevMehta-30/Rethinopathy/tree/main/Datsasethttps://github.com/DevMehta-30/Rethinopathy/tree/main/Datsaset)
 
 ## Models Applied
 - ### Logistic Regression
